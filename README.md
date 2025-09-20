@@ -9,4 +9,4 @@
 ## Technical Background
 I have experience with Python, C and C++, and have a general knoledge base of IT and hardware
 
-![My Favorite Meme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fg1xbe9pwkg3d1.jpeg)
+![My Favorite Meme](https://ibb.co/wrLD9yL2)
